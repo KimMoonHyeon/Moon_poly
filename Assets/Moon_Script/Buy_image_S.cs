@@ -1,10 +1,11 @@
-﻿using System.Collections;
+﻿
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
 public class Buy_image_S : MonoBehaviour {
-
+	/*
 	private Image image;
 	int UI_number;
 	bool UI_appear;
@@ -30,5 +31,5 @@ public class Buy_image_S : MonoBehaviour {
 
 		}
 
-	}
+	}*/
 }

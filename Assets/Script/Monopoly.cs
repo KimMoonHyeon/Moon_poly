@@ -200,6 +200,7 @@ public class Monopoly : MonoBehaviour
 	void Start()
 	{
 		// Network 클래스의 컴포넌트 가져오기.
+		//Debug.Log("시작?");
 		GameObject obj = GameObject.Find("Network");
 		m_transport = obj.GetComponent<TransportTCP>();
 		if (m_transport != null)
